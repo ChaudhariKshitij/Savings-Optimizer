@@ -24,7 +24,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # Display persistent warning about market risks
-st.warning("Note: This allocation is suggested based on calculations aimed at maximizing returns. However, stock markets are always subject to market risks. Make your investment wisely.")
+st.warning("Note:This project is done for study purpose only.This allocation is suggested based on calculations aimed at maximizing returns. However, stock markets are always subject to market risks. Make your investment wisely.")
 
 # Sidebar for selecting stocks and entering total portfolio value
 st.sidebar.header("Stock Selection")
